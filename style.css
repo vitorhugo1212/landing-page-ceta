@@ -1,0 +1,23 @@
+main{
+    background-color: brown;
+}
+#produtos{
+    background-color: aqua;
+    height: 300px;
+}
+#parceiros{
+    background-color: blue;
+    height: 300px;
+}
+#historia{
+    background-color: chartreuse;
+    height: 300px;
+}
+#carrinho{
+    background-color: darkmagenta;
+    height: 300px;
+}
+#cadastro{
+    background-color: blueviolet;
+    height: 300px;
+}
